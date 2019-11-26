@@ -1,0 +1,6 @@
+Alan	1.5	40
+Beck 	1.6	50
+Charlie	1.7	60
+Jenny	1.55	70
+Maya	1.65	75
+Austin	1.75	80
